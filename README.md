@@ -2,7 +2,7 @@
 database created in MySQL that manages the primary care operations of a hospital.  
 
 # web application
-web application was created in IntelliJ, utilizing Java, SQL, JSP, JSTL, and HTML
+web application was created in IntelliJ, utilizing Java, SQL, JSP, JSTL, CSS, JavaScript, and HTML
 
 ## home page
 ![home page](/images/homepage.png)
