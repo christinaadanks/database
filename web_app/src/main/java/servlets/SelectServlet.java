@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Locale;
 
 /**
- * @author christinaadanks
+ * @author christinaathecoder
  */
 
 @WebServlet(name = "SelectServlet", value = "/SelectServlet")
